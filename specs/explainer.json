@@ -1,0 +1,16 @@
+{
+  "title": "Explainer",
+  "fps": 30,
+  "formats": ["16x9", "9x16"],
+  "theme": { "preset": "paper" },
+  "background": { "type": "dots" },
+  "transition": { "type": "wipe", "duration": 0.55 },
+  "scenes": [
+    { "type": "title", "kicker": "60-second guide", "text": "How *compound interest* actually works", "anim": "blur", "subtitle": "And why starting early beats starting big." },
+    { "type": "captions", "text": "You earn interest on your money. Then you earn interest on that interest. Over time, the second part does most of the work.", "style": "karaoke", "wpm": 165 },
+    { "type": "stat", "value": 100, "from": 0, "suffix": "%", "label": "of the growth comes from time in the market", "ring": true },
+    { "type": "quote", "text": "The money you invest at 25 works *harder* than the money you invest at 45.", "author": "Dana Reyes", "role": "Financial educator (example)" },
+    { "type": "list", "title": "Three rules", "numbered": false, "items": ["Start early", "Stay consistent", "Don't touch it"] },
+    { "type": "cta", "text": "Start *today.*", "handle": "@moneybasics" }
+  ]
+}

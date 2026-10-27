@@ -1,0 +1,15 @@
+{
+  "title": "Launch promo",
+  "fps": 30,
+  "formats": ["9x16", "1x1", "16x9"],
+  "theme": { "preset": "midnight", "logo": { "src": "logo.svg", "size": 0.62 } },
+  "background": { "type": "orbs" },
+  "transition": { "type": "zoom", "duration": 0.5 },
+  "progressBar": true,
+  "scenes": [
+    { "type": "title", "kicker": "New in 2.0", "text": "Your week,\n*finally* planned.", "anim": "rise", "duration": 2.6 },
+    { "type": "stat", "value": 6.5, "suffix": " hrs", "label": "saved every week, on average", "duration": 2.6 },
+    { "type": "list", "title": "What's new", "items": ["Auto-scheduling", "Focus blocks", "Team calendars"], "duration": 3.4, "transition": { "type": "slide-up", "duration": 0.45 } },
+    { "type": "cta", "text": "Plan *less*. Do more.", "button": "Try it free", "url": "kelvo.app", "duration": 3.2 }
+  ]
+}

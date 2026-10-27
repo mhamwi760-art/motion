@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 200" fill="none">
+  <g transform="translate(20 20)">
+    <circle cx="80" cy="80" r="72" fill="#6C7BFF"/>
+    <path d="M44 112 L80 40 L116 112 Z" fill="#070B1A"/>
+    <circle cx="80" cy="92" r="14" fill="#2EE6C9"/>
+  </g>
+  <text x="200" y="132" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="104" letter-spacing="-5" fill="#F4F6FF">kelvo</text>
+</svg>

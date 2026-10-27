@@ -1,0 +1,13 @@
+{
+  "title": "Talking-head captions",
+  "fps": 30,
+  "formats": ["9x16"],
+  "theme": { "preset": "neon" },
+  "background": { "type": "gradient" },
+  "transition": { "type": "fade", "duration": 0.3 },
+  "scenes": [
+    { "type": "title", "text": "Stop *scrolling.*", "anim": "pop", "split": "char", "duration": 1.6 },
+    { "type": "captions", "style": "bold", "text": "Here are three things nobody tells you about building a personal brand online. Number one: consistency beats talent every single time.", "wpm": 185 },
+    { "type": "cta", "text": "Follow for *part 2*", "button": "Follow", "handle": "@yourhandle", "showLogo": false }
+  ]
+}

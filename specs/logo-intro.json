@@ -1,0 +1,11 @@
+{
+  "title": "Logo intro",
+  "fps": 30,
+  "formats": ["16x9", "1x1"],
+  "theme": { "preset": "midnight", "logo": { "src": "logo.svg", "size": 0.7 } },
+  "background": { "type": "grid", "perspective": true },
+  "transition": { "type": "fade", "duration": 0.6 },
+  "scenes": [
+    { "type": "logo", "style": "burst", "tagline": "Plan less. Do more.", "duration": 3.2 }
+  ]
+}
